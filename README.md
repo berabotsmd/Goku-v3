@@ -105,7 +105,8 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/berabotsmd/Goku-v3/fork)
+1, Star the repo up there then click Here To 
+[`FORK`](https://github.com/berabotsmd/Goku-v3/fork)
 
 2, TAP ON GET SESSIONS
 
