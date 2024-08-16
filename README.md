@@ -45,7 +45,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
-- <a href="https://david-session-mz7b.onrender.com/"><img title="GET Goku-v3 SESSION code" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Goku-v3" width="220" height="38.45"/></a></p>
+- <a href="https://david-session-1-pygz.onrender.com"><img title="GET Goku-v3 SESSION code" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Goku-v3" width="220" height="38.45"/></a></p>
 
 
 
