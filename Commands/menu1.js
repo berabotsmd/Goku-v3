@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ 𝑩𝑼𝑮𝑨𝑻𝑻𝑰
+┏❏ GOKU-V3 
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User:${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -80,7 +80,7 @@ const date = moment().format('DD/MM/YYYY');
 
   
 let menuMsg = `
-𝑩𝑼𝑮𝑨𝑻𝑻𝑰
+GOKU-V3 
 `;
 
 
@@ -105,7 +105,7 @@ let menuMsg = `
 
     menuMsg += `
 ┏┻━━━━━━━━━━━━┻┓
-┃𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍☆
+┃𝑲𝒊𝒏𝒈 BERA☆
 ┗━━━━━━━━━━━━━━┛\n
 
 
