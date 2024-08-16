@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━
+┏━━━◈GOKU-V3◈━━
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User : ${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -77,11 +77,11 @@ const date = moment().format('DD/MM/YYYY');
 ┃ ⿻Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃ ⿻Host : ${os.platform()}
 ┃ ⿻Mode: ${mode}
-┗━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━ \n\n`;
+┗━━━◈GOKU-V3◈━━ \n\n`;
 
 
 let menuMsg = `
-  𝑩𝑼𝑮𝑨𝑻𝑻𝑰
+  GOKU-V3 
 `;
 
 
@@ -104,11 +104,11 @@ let menuMsg = `
 
     menuMsg += `
 ︎
-️    𝑩𝑼𝑮𝑨𝑻𝑻𝑰
+️    GOKU-V3 
   𝑺𝒖𝒑𝒆𝒓 𝑭𝒂𝒔𝒕 𝑩𝒐𝒕
 
 ┏━━━━━━━━━━━━━━┓
-┃𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊.
+┃𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 Bera .
 ┗━━━━━━━━━━━━━━┛\n
 
 
@@ -124,7 +124,7 @@ let menuMsg = `
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*, déveloper 𝑴𝒂𝒓𝒊𝒔𝒆𝒍" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *GOKU-V3*, déveloper Bera" , gifPlayback : true }, { quoted: ms });
 
     }
 
