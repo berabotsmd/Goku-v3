@@ -1,14 +1,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>BERA-V3-MD </b>
+<h1 align="center"><b>Goku-V3 </b>
 <a><a href="https://github.com/Xcelsama">
     <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
      
   <img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Bera+V3+MD+Created+By+Bruce..&heart;++;Self-taught+Back-Created+By,;Bruce+Bera+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Goku+V3++Created+By+Bruce..&heart;++;Self-taught+Back-Created+By,;Bruce+Bera+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/ZHn1Xd1/IMG-20240802-WA0019.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">  
@@ -25,7 +25,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/berabotsmd-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
