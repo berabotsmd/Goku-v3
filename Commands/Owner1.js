@@ -31,7 +31,7 @@ zokou({ nomCom: "deployer", categorie: "General" }, async (dest, zk, commandeOpt
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
-  let infoMsg =  `> Hello ${nomAuteurMessage} you requested for my deployer😌\n *${s.OWNER_NAME}* 𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍.\n\n> 𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒊𝒕☆ `;
+  let infoMsg =  `> Hello ${nomAuteurMessage} you requested for my deployer😌\n *${s.OWNER_NAME}* BRUCE BERA.\n\n> Goku-v3 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒊𝒕☆ `;
 
    var lien = mybotpic();
 
