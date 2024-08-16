@@ -1,9 +1,9 @@
 {
-  "name":"𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
+  "name":"Goku-v3",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/b9282142f3318354af3c9.mp4",
-  "repository":"https://github.com/HACKING995/HACKING956",
+  "logo":"https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
+  "repository":"https://github.com/berabotsmd/Goku-v3 ",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍",
+      "value":"GOKU-V3 ",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍"
+    "value": "BRUCE BERA"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254740007567"
+    "value": "254743982206"
   },
     "WARN_COUNT":
   {
