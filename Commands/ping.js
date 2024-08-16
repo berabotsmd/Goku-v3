@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "ping", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐬𝐩𝐞𝐞𝐝 𝐢𝐬';
+    let z = 'Goku-v3 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐬𝐩𝐞𝐞𝐝 𝐢𝐬';
     let d = '𝟏𝟎𝟖𝟎.𝟗𝟏𝐌/𝐬';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/e359b71ab0fc21d0e6a0a.jpg';
