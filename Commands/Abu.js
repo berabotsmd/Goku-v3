@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "bugatti", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "Goku-v3", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -35,20 +35,20 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*𝑌𝑒𝑠 𝑀𝑦 𝐺𝑢𝑦 𝑊ℎ𝑎𝑡'𝑠 𝑈𝑝?* 
+* 𝑊ℎ𝑎𝑡'𝑠 𝑈𝑝?👋 pal* 
 *𝐷𝑜 𝑀𝑒 𝑎 𝐹𝑎𝑣𝑜𝑢𝑟 𝐹𝑜𝑙𝑙𝑜𝑤 𝑇ℎ𝑒𝑠𝑒 𝐶ℎ𝑎𝑛𝑛𝑒𝑙𝑠*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 
 *Youtube*
-> https://www.youtube.com/wemacomic
+> https://www.youtube.com/BERA_TECH
 
 *For more info*
-> https://github.com/betingrich
+> https://github.com/berabots
   `;
     
 let menuMsg = `
-> ©Marisel 
+> ©Bera
 `;
 
    var lien = mybotpic();
@@ -117,24 +117,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BUGATTI IMPORTANT INFO* 
+   *GOKU-V3 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/betingrich/King
+> https://github.com/berabotsmd/Goku-v3 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/betingrich⁠
+> https://github.com/berabotsmd⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *BRUCE BERA*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑴𝑨𝑹𝑰𝑺𝑬𝑳
+     BERA
 
 ❒────────────────────❒`;
 
@@ -142,7 +142,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *GOKU-V3*, déveloper Bera Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
