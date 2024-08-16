@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("𝑩𝑼𝑮𝑨𝑻𝑻𝑰") ; return};
+        if(!superUser) { repondre("Goku-v3") ; return};
 
-      await   repondre("*𝑩𝑼𝑮𝑨𝑻𝑻𝑰 https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
-         repondre("𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑰𝒔 𝑨𝒍𝒊𝒗𝒆 𝑱𝒖𝒔𝒕 𝒍𝒊𝒌𝒆 𝒚𝒐𝒖 𝑮. 𝑻𝒚𝒑𝒆 .𝒎𝒆𝒏𝒖 𝒕𝒐 𝒖𝒔𝒆 𝒎𝒆.")
+      await   repondre("*Goku-v3 https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q");
+         repondre("Goku-v3 𝑰𝒔 𝑨𝒍𝒊𝒗𝒆 𝑱𝒖𝒔𝒕 𝒍𝒊𝒌𝒆 𝒚𝒐𝒖 𝑮. 𝑻𝒚𝒑𝒆 .𝒎𝒆𝒏𝒖 𝒕𝒐 𝒖𝒔𝒆 𝒎𝒆.")
      }
  } else {
 
-    if(!superUser) { repondre ("𝑩𝑼𝑮𝑨𝑻𝑻𝑰 ") ; return};
+    if(!superUser) { repondre ("Goku-v3 ") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x. ')
+repondre(' https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q. ')
 
 }
     });
