@@ -22,7 +22,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *𝑩𝑼𝑮𝑨𝑻𝑻𝑰* ═══\n\n";
+    let menuMsg = "  ═══ *GOKU-V3* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -44,7 +44,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
    ||      Date : ${date}
    ||      Heure : ${temps}
    ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : King Marisel+|
+   ||  Développeurs : King BERA+|
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
