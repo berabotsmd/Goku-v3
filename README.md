@@ -30,9 +30,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/berabotmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotmd?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
+<a href="https://github.com/berabotsmd/Goku-v3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/Goku-v3?&style=social"></a>
 <a href="https://github.com/berabots md/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/berabots/Goku-v3?style=social"></a>
-<a href="https://github.com/berabotmd/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotmd/Goku-v3?label=Watching&style=social"></a>
+<a href="https://github.com/berabotmd/Goku/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotmd/Goku-v3?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -45,16 +45,15 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
-- <a href="https://david-session-mz7b.onrender.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://david-session-mz7b.onrender.com/"><img title="GET Goku-v3 SESSION code" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Goku-v3" width="220" height="38.45"/></a></p>
 
 
-- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Bugatti&template=https://github.com/betingrich/Bugatti"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/Goku-v3 &template=https://github.com/berabotsmd/Goku-v3"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Goku-v3" width="220" height="38.45"/></a></p>
 
 
 
@@ -70,7 +69,7 @@
 
 </p>
 
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=Goku-v3" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -140,7 +139,7 @@ Contributions to *GOKU-V3* are welcome! If you have ideas for new features, impr
 
 The *GOKU-V3* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*  to enhance your Whatsapp more enjoyable
-☣Powered by King Marisel 
+Enjoy the diverse features of the *Goku-v3*  to enhance your Whatsapp more enjoyable
+☣Powered by Bruce Bera
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
