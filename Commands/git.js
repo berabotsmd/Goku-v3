@@ -34,24 +34,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BUGATTI IMPORTANT INFO* 
+   *GOKU-V3 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/betingrich/King
+> https://github.com/berabotsmd/Goku-v3 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://wa.me/254740007567?text=Hi+Marisel+I+Need+Help
+> https://wa.me/254743982206?text=Hi+Bera+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Marisel*
+│❒⁠⁠⁠⁠ *DEV* : *BRUCE BERA*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑩𝑼𝑮𝑨𝑻𝑻𝑰 𝑳𝑨𝑩
+     GOKU-V3 𝑳𝑨𝑩
 
 ❒────────────────────❒`;
 
@@ -59,7 +59,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Bera Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -69,7 +69,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *GOKU-V3*, déveloper BERA Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
