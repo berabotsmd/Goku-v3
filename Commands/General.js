@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "King Marisel", numero: "254740007567" },
-      { nom:"Marisel", numero: "254740007567" },
+      { nom: "King Bera", numero: "254743982206" },
+      { nom:"Bera", numero: "254743982206" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 here is the dev :\n\n";
+    let message = "👋 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 king Bera here is the dev :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍", numero: "254740007567" },
-      { nom: "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍", numero: "254740007567" },
+      { nom: "𝑲𝒊𝒏𝒈 Bera", numero: "254743982206" },
+      { nom: "𝑲𝒊𝒏𝒈 Bera", numero: "254743982206" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍* here is the developer numbers:\n\n";
+    let message = "👋 *𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑲𝒊𝒏𝒈 Bera* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
